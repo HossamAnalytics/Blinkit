@@ -2,31 +2,14 @@
 
 > **Visualizing Efficiency in India's Last Minute App.**
 
----
-
-### 🟢 1. Project Overview (Top Left)
-This Power BI dashboard provides a comprehensive analysis of **Blinkit's** sales performance, customer satisfaction, and inventory distribution. The goal is to identify key insights into sales trends, outlet efficiencies, and product popularity to drive data-backed business decisions.
-
-### 🟡 2. Key Performance Indicators (Top Right)
-Based on the dashboard analysis, the project highlights:
-* **Total Sales:** $1.20M
-* **Average Sales:** $141 per transaction
-* **Total Items Sold:** 8,523 items
-* **Average Rating:** 3.9 / 5.0
+| 🟢 1. Project Overview (Top Left) | 🟡 2. Key Performance Indicators (Top Right) |
+| :--- | :--- |
+| This Power BI dashboard provides a comprehensive analysis of **Blinkit's** sales performance, customer satisfaction, and inventory distribution. The goal is to identify key insights to drive data-backed business decisions. | 💰 **Total Sales:** $1.20M <br> 🛒 **Avg Sales:** $141 <br> 📦 **Items Sold:** 8,523 <br> ⭐ **Avg Rating:** 3.9 / 5.0 |
 
 ---
 
-### 📈 3. Key Insights & Visualizations (Bottom Left)
-* **Sales Trend by Year:** Analyzed sales growth from 2012 to 2022, showing a significant peak in 2018 ($205K).
-* **Outlet Analysis:** * **Outlet Size:** Medium-sized outlets contribute the most to sales (42.27%).
-    * **Outlet Location:** Tier 3 locations are the highest performing ($472.13K).
-    * **Outlet Type:** Supermarket Type 1 leads in total sales ($787.55K).
-* **Product Performance:**
-    * **Fat Content:** Regular fat products generate more sales ($776.32K) compared to Low Fat products.
-    * **Top Categories:** Fruits, Vegetables, and Snack Foods are the top-selling item types.
+| 📈 3. Key Insights & Visualizations (Bottom Left) | 🛠️ 4. Tech Stack & Skills (Bottom Right) |
+| :--- | :--- |
+| • **Sales Trend:** Peak performance achieved in 2018 ($205K). <br> • **Outlets:** Medium-sized and Tier 3 locations are the top performers. <br> • **Products:** Fruits, Vegetables, and Regular Fat items dominate the sales. | 🛠️ **Tool:** Power BI Desktop <br> 🧹 **Data:** Power Query (ETL) <br> 🧠 **Analysis:** DAX Expressions <br> 🎨 **Design:** UI/UX Custom Dashboard Theme |
 
-### 🛠️ 4. Tech Stack & Skills (Bottom Right)
-* **Tool:** Power BI Desktop
-* **Data Cleaning:** Power Query (ETL)
-* **Analysis:** DAX (Data Analysis Expressions)
-* **Design:** Custom Branding & UI/UX for Dashboards
+---
