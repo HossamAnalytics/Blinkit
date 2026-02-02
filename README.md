@@ -6,9 +6,9 @@
 
 ---
 
-| 🟢 Project Overview | 🟡 Key Performance Indicators |
+| 🟢 Project Overview | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🟡 Key Performance Indicators &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :--- | :--- |
-| This Power BI dashboard provides a comprehensive analysis of **Blinkit's** sales performance, customer satisfaction, and inventory distribution. The goal is to identify key insights to drive data-backed business decisions. | 💰 **Total Sales:** $1.20M <br> 🛒 **Avg Sales:** $141 <br> 📦 **Items Sold:** 8,523 <br> ⭐ **Avg Rating:** 3.9 / 5.0 |
+| This Power BI dashboard provides a comprehensive analysis of **Blinkit's** sales performance, customer satisfaction, and inventory distribution. The goal is to identify key insights to drive data-backed business decisions. | <br> 💰 **Total Sales:** $1.20M <br><br> 🛒 **Avg Sales:** $141 <br><br> 📦 **Items Sold:** 8,523 <br><br> ⭐ **Avg Rating:** 3.9 / 5.0 <br> &nbsp; |
 
 ---
 
